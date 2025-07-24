@@ -51,3 +51,20 @@ git push -u origin master
 成功上传
 
 # 配置 HuggingFace TransFormer 环境
+
+# 学习
+
+参考 'https://huggingface.co/docs/transformers/zh/pipeline_tutorial'
+
+## 微调预模型训练
+
+准备数据集
+训练
+评估
+
+
+
+
+## NaVILA 结构参考
+navila环境配置：
+workspace/NaVILA/environment_setup.sh
