@@ -2,13 +2,13 @@
 
 # git 创建文件
 
-## 替换远程仓库URL指令
+替换远程仓库URL指令
 
 ```bash
 git remote set-url origin https://github.com/thomasWts/HuggingFace-TransFormers-Learning.git
 ```
 
-## 验证是否修改成功
+验证是否修改成功
 
 ```bash
 git remote -v
@@ -49,3 +49,5 @@ git remote set-url origin git@github.com:thomasWts/HuggingFace-TransFormers-Lear
 git push -u origin master
 ```
 成功上传
+
+# 配置 HuggingFace TransFormer 环境
